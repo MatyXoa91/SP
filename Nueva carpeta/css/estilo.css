@@ -1,0 +1,25 @@
+header {background-image: url(../img/Mesa\ de\ trabajo\ 1.jpg);height: 200px;display: flex;} 
+h1{display: flex;}
+.Titulo{font-size: 80px;}
+.Navbar{ display: flex}
+.navbar__hlink{text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    border-style:inset;
+    padding: 2px 3px 2px 3px;
+    margin-top: 1px;}
+.logo{display: flex;padding-left: 10px;}
+ul{ list-style-type: none;} 
+a{text-decoration: none; font-size: 30px; font-family: 'Agency FB'; }
+li{padding: 5px; margin: 5px;}
+.Cuerpo{font-size: 50px;display: flex;flex-direction: column;font-family: 'Agency FB';}
+p{font-size: 40px;font-family: 'Agency FB';text-align: justify;}
+h2{font-size: 50px;font-family: 'Agency FB';padding-left: 100px;text-align: justify;}
+h3{font-size: 50px;font-family: 'Agency FB';padding-left: 100px;text-align: justify;}
+footer{background-color: grey;}
+.redes{display: flex;padding-left: 500px;}
+footer.p{padding-bottom: 50px;border: 10px;}
+.ubicacion{font-size:60px;font-family: 'Agency FB';text-align: justify;}
+.cuadro{height: auto;}
+.contenedor{display: grid;}
